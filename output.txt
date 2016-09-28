@@ -1,0 +1,44 @@
+
+   Search [1]Images [2]Maps [3]Play [4]YouTube [5]News [6]Gmail [7]Drive
+   [8]More »
+   [9]Web History | [10]Settings | [11]Sign in
+
+   Google
+
+     [12]___________________________________________________
+   [13]Google Search  [14]I'm Feeling Lucky    [15]Advanced search
+      [16]Language tools
+
+   Google.ca offered in: [17]Français
+
+   [18]Advertising Programs     [19]Business Solutions     [20]+Google
+    [21]About Google     [22]Google.com
+
+                      © 2016 - [23]Privacy - [24]Terms
+
+References
+
+   1. http://www.google.ca/imghp?hl=en&tab=wi
+   2. http://maps.google.ca/maps?hl=en&tab=wl
+   3. https://play.google.com/?hl=en&tab=w8
+   4. http://www.youtube.com/?gl=CA&tab=w1
+   5. http://news.google.ca/nwshp?hl=en&tab=wn
+   6. https://mail.google.com/mail/?tab=wm
+   7. https://drive.google.com/?tab=wo
+   8. https://www.google.ca/intl/en/options/
+   9. http://www.google.ca/history/optout?hl=en
+  10. http://www.google.ca/preferences?hl=en
+  11. https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.ca/%3Fgfe_rd%3Dcr%26ei%3D81UnV9mRIKSC8QfDw46QDg
+  12. form field = text entry field
+  13. form field = submit button
+  14. form field = submit button
+  15. http://www.google.ca/advanced_search?hl=en-CA&authuser=0
+  16. http://www.google.ca/language_tools?hl=en-CA&authuser=0
+  17. http://www.google.ca/setprefs?sig=0_GOT_CNdULmg-ku7rJJ8pXgA0VBw%3D&hl=fr&source=homepage
+  18. http://www.google.ca/intl/en/ads/
+  19. http://www.google.ca/services/
+  20. https://plus.google.com/108349337900676782287
+  21. http://www.google.ca/intl/en/about.html
+  22. http://www.google.ca/setprefdomain?prefdom=US&sig=___9vKNzJipk0G3PI8emKZx_WXTcA%3D
+  23. http://www.google.ca/intl/en/policies/privacy/
+  24. http://www.google.ca/intl/en/policies/terms/
